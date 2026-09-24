@@ -14,3 +14,4 @@ In this project Im creating Quantum Random Number Generator and were writing cod
    That is, the number of times 0 changed to 1 and 1 changed to 0.
    Next, their ratio is calculated, which, in the optimal case, should be approximately 0.5.
 
+The program requires NumPy, mpmath, and scipy.stats. The input must be a bit sequence, supplied through Excel or another algorithm.
